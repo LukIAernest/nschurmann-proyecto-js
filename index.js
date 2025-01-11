@@ -10,4 +10,5 @@ const clickeado = () => {
     let a = "chanchito feliz"
 
     console.log(a)
+    /* esto es una prueba del Edit > Toogle Block comment */
 }
